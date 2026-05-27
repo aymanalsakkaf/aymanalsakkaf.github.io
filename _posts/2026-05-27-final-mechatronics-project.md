@@ -15,7 +15,7 @@ Here is what you need to buy...
 Connect the sensors to the board...
 
 
-![Wiring diagram](/assets/img/posts/avatar.jpg){: .shadow width="700" height="400" }
+![Wiring diagram](/assets/img/posts/avatar.jpg){:.shadow width="700" height="400"}
 _This is the wiring diagram for the main sensor._
 
 
