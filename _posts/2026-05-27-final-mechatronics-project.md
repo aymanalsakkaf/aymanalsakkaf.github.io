@@ -13,6 +13,8 @@ Here is what you need to buy...
 
 ## Step 2: The Wiring
 Connect the sensors to the board...
+
+
 ![Describe the image here](/assets/img/posts/avatar.jpg){: width="700" height="400" .shadow}
 _This is the wiring diagram for the main sensor._
 
