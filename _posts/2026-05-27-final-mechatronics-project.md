@@ -15,8 +15,9 @@ Here is what you need to buy...
 Connect the sensors to the board...
 
 
-![Describe the image here](/assets/img/posts/avatar.jpg){: width="700" height="400" .shadow}
+![Wiring diagram](/assets/img/posts/avatar.jpg){: .shadow width="700" height="400" }
 _This is the wiring diagram for the main sensor._
+
 
 ## Step 3: The Code
 Here is the code I used to make it run...
