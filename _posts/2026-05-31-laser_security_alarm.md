@@ -1,3 +1,10 @@
+---
+title: Laser Security Alarm Using an LDR Sensor
+date: 2026-05-31 12:00:00 +0300
+categories: [Projects, Mechatronics]
+tags: [robotics, youtube, tutorial]
+---
+
 # Laser Security Alarm Using an LDR Sensor
 
 In this project, I designed a simple laser security alarm system that uses a laser beam and an LDR (Light Dependent Resistor). The circuit continuously monitors the laser beam, and whenever the beam is interrupted, the buzzer is activated to alert the user. This concept is commonly used in security systems, where an invisible light barrier is created. When a person or an object passes through the beam, the alarm is triggered.
