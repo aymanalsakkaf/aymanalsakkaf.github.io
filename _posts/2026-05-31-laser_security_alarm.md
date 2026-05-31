@@ -9,6 +9,9 @@ tags: [robotics, youtube, tutorial]
 
 In this project, I designed a simple laser security alarm system that uses a laser beam and an LDR (Light Dependent Resistor). The circuit continuously monitors the laser beam, and whenever the beam is interrupted, the buzzer is activated to alert the user. This concept is commonly used in security systems, where an invisible light barrier is created. When a person or an object passes through the beam, the alarm is triggered.
 
+![Wiring diagram](/assets/img/posts/1-1.jpg){:width="300" height="300"}
+_This is the file project._
+
 ## Components Used
 
 * 3V Battery
