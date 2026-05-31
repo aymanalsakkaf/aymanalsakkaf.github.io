@@ -1,9 +1,9 @@
----
+----
 title: How to Build My Final Mechatronics Project
 date: 2026-05-27 12:00:00 +0300
 categories: [Projects, Mechatronics]
 tags: [robotics, youtube, tutorial]
----
+----
 
 If you saw my recent YouTube Short, you know I just finished my final mechatronics project! Here is the step-by-step breakdown of how I built it.
 
