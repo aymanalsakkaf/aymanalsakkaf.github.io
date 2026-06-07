@@ -1,4 +1,9 @@
-# Fire Extinguisher System Using a Flame Sensor
+---
+title: Fire Extinguisher System Using a Flame Sensor
+date: 2026-06-07 02:00:00 +0300
+categories: [Projects, Mechatronics]
+tags: [robotics, youtube, tutorial]
+---
 
 ## Introduction
 
