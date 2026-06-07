@@ -28,6 +28,8 @@ This project aims to create a simple fire detection and extinguishing system usi
 - GND → GND on Arduino
 - OUT → A0 on Arduino
 
+![Wiring diagram](/assets/img/posts/2-1.png){:width="1000" height="1000"}
+
 ### Buzzer Connections
 
 - Positive Pin → A2
@@ -38,6 +40,8 @@ This project aims to create a simple fire detection and extinguishing system usi
 - VCC → 5V on Arduino
 - GND → GND on Arduino
 - IN → A4 on Arduino
+
+![Wiring diagram](/assets/img/posts/2-2.png){:width="1000" height="1000"}
 
 ### LED Connections
 
