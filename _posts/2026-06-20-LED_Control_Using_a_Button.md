@@ -9,6 +9,8 @@ tags: [robotics, youtube, tutorial]
 
 In this project, we will learn how to control an LED using a button. When the button is pressed, the LED changes its state. If the LED is off, it turns on. If it is on, it turns off. This is a simple project for beginners who want to learn Arduino programming and button input.
 
+![Wiring diagram](/assets/img/posts/3-1.png){:width="1000" height="1000"}
+
 ## Components
 
 - Arduino board
@@ -62,6 +64,8 @@ The while loop waits until the button is released, preventing multiple state cha
 In this project, we will learn how to control two LEDs using a button. The first LED automatically turns on and off every five seconds using the millis() function. The second LED changes its state when the button is pressed.
 
 This project is a good way to learn how to use timing functions in Arduino and how to control multiple outputs at the same time.
+
+![Wiring diagram](/assets/img/posts/3-2.png){:width="1000" height="1000"}
 
 ## Components
 
