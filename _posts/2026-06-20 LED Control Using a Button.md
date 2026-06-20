@@ -1,4 +1,9 @@
-# Project 1: LED Control Using a Button
+---
+title: LED Control Using a Button
+date: 2026-06-20 09:30:00 +0300
+categories: [Projects, Mechatronics]
+tags: [robotics, youtube, tutorial]
+---
 
 ## Introduction
 
