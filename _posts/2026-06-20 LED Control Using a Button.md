@@ -4,7 +4,7 @@ date: 2026-06-20 09:30:00 +0300
 categories: [Projects, Mechatronics]
 tags: [robotics, youtube, tutorial]
 ---
-
+# Project 1:
 ## Introduction
 
 In this project, we will learn how to control an LED using a button. When the button is pressed, the LED changes its state. If the LED is off, it turns on. If it is on, it turns off. This is a simple project for beginners who want to learn Arduino programming and button input.
